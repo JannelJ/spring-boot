@@ -1,4 +1,4 @@
-package com.northcoders.demospringbootapp.controller;
+package com.northcoders.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
